@@ -5,7 +5,7 @@
 .backimage{
 	height: 100vh;
 	width: 100%;
-	background-image: url(/Portfolio/img/myphoto.jpeg);
+	background-image: url(../Portfolio/img/myphoto.jpeg);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
